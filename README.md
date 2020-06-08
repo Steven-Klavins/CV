@@ -38,19 +38,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
+#### Makers Academy (17/02/20 - 05/06/20)
+* Object orientated programming, Test driven development
+* Agile/XP principles 
+* Ruby, Rails, JavaScript, React, Socket IO, Jquery, NodeJs
+* PostgreSQL, SQL, Mongo DB
+* RSpec, Jasmine, Jest, Capybara
+
 #### Self Directed Learning (28/06/19 - 16/02/20)
 * Java, Pyphon 
 * OOP principles 
 * Android Development 
 * Basic Algorithms 
 * Arduino micro-controllers and basic electronics
-
-#### Makers Academy (17/02/20 - 05/06/20)
-* Object orientated programming, Test driven development
-* Agile/XP principles 
-* Ruby, Rails, JavaScript, React, Socket IO, Jquery, NodeJs
-* PostgreSQL, SQL, Mongo DB
-* RSpec, Jasmine, Jest, Capybara 
 
 #### University Of West London/ Kingston College, Richmond Road (2013-2016)
 
