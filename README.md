@@ -49,7 +49,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 * Subject: Digital Arts
 * Grade 2.2
-* End of year [showreel](https://www.youtube.com/watch?v=JYVUDy5jC6U)
+* [End of year showreel](https://www.youtube.com/watch?v=JYVUDy5jC6U)
 
 #### Any other qualifications
 
