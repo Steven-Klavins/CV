@@ -4,13 +4,12 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 ## Skills
 
-| Project                                             |  Description  | Tech Used                                      |
-|-----------------------------------------------------|:-------------:|-----------------------------------------------:|
-|[WhatStack](https://github.com/FayeCarter/WhatStack) |               |React, JavaScript, React, MongoDB, Express, NodeJS, Socket IO, Heroku   |
-|                                                     |               |                                                |
-|                                                     |               |                                                |
-|                                                     |               |                                                |
-|                                                     |               |                                                |
+| Project                                              | Description                                                                                                                                     | Tech Used                                                              |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| [WhatStack](https://github.com/FayeCarter/WhatStack) | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | React, JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku |
+|                                                      |                                                                                                                                                 |                                                                        |
+|                                                      |                                                                                                                                                 |                                                                        |                                                    |               |                                                |
+
 #### This Skill
 
 - Experience
