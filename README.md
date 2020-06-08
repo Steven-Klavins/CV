@@ -43,12 +43,15 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Experience
 
 **Willis Towers Watson** 03/09/18 - 28/06/19 
+
 *Colleague 1/09/15 - 10/10/17 Supervisor 16/10/17 - 6/06/18*  
 
 **Sainsbury's** 1/09/15 - 06/06/18 
+
 *Colleague 1/09/15 - 10/10/17 Supervisor 16/10/17 - 6/06/18*  
 
 **Maplin Electronics** 05/12/14 – 01/09/15  
+
 *Sales advisor*  
 
 ## Hobbies
