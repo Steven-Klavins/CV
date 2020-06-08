@@ -46,7 +46,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * RSpec, Jasmine, Jest, Capybara
 
 #### Self Directed Learning (28/06/19 - 16/02/20)
-* Java, Pyphon 
+* Java, Python 
 * OOP principles 
 * Android Development 
 * Basic Algorithms 
