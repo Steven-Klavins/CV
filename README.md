@@ -52,4 +52,4 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+In my leisure time, I am a devoted musician and have performed in a number of London venues. I enjoy working with all kinds of tech including but not limited to; 3D printing, modelling, microcontrollers, pro audio and a large list of languages and frameworks. I am a creative thinker and take a practical hands-on approach to my work, I'm also a keen artist and explore many mediums. I enjoy photography, most work situated within the Adobe suite and music production. Furthermore, I'm learning to speak German as I'm a keen traveller.
