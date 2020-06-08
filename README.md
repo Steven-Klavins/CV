@@ -4,7 +4,11 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+| Project  |  Description  | Tech Used |
+|----------|:-------------:|----------:|
+|WhatStack |               |           |
+|          |               |           |
+|          |               |           |
 
 #### This Skill
 
