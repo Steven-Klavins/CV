@@ -4,11 +4,11 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 ## Skills
 
-| Project                                              | Description                                                                                                                                     | Tech Used                                                              |
-|------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
-| [WhatStack](https://github.com/FayeCarter/WhatStack) | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | React, JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku |
-|                                                      |                                                                                                                                                 |                                                                        |
-|                                                      |                                                                                                                                                 |                                                                        |                                                    |               |                                                |
+| Project                                                          | Description                                                                                                                                     | Tech Used                                                                    |
+|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [WhatStack](https://github.com/FayeCarter/WhatStack)             | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | React, JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku, Jest |
+| [Off The Rails](https://github.com/Steven-Klavins/off-the-rails) | A simple web app for posting articles,  users can comment on, update, and delete posts.                                                         | Ruby, Rails, PostgreSQL, RSpec                                               |
+|
 
 #### This Skill
 
