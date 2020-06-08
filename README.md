@@ -57,18 +57,12 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Willis Towers Watson** 03/09/18 - 28/06/19 
-
-* Call center Agent 
-
-**Sainsbury's** 01/09/15 - 06/06/18 
-
-* Colleague 01/09/15 - 10/10/17 
-* Supervisor 16/10/17 - 6/06/18 
-
-**Maplin Electronics** 05/12/14 – 01/09/15  
-
-* Sales advisor  
+| Organization         | Job Title         | Dates of employment |
+|----------------------|-------------------|---------------------|
+| Willis Towers Watson | Call Centre Agent | 03/09/18 - 28/06/19 |
+| Sainsbury's          | Supervisor        | 16/10/17 - 06/06/18 |
+| Sainsbury's          | Floor Staff       | 01/09/15 - 10/10/17 |
+| Maplin Electronics   | Sales advisor     | 05/12/14 – 01/09/15 | 
 
 ## Hobbies
 
