@@ -23,9 +23,8 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 #### Skills
 
-- Experience
-- Achievements
-- Evidence
+## An agile worker and XP proponent
+Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage and respect) provides a little more substance. 
 
 #### Another Skill
 
