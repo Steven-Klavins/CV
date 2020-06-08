@@ -31,20 +31,19 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+* I achieved A during my work at B (job, or otherwise)
+* I contributed to the growth of X while doing Y (job, or otherwise)
+* I built this, made this, broke this, fixed this, etc.
+* A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
 #### Makers Academy (17/02/20 - 05/06/20)
-
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, React, Socket IO
-- PostgreSQL, SQL, Mongo DB
-- RSpec, Jasmine, Jest, Capybara 
+* Object orientated programming, Test driven development
+* Agile/XP principles 
+* Ruby, Rails, JavaScript, React, Socket IO, Jquery, NodeJs
+* PostgreSQL, SQL, Mongo DB
+* RSpec, Jasmine, Jest, Capybara 
 
 #### Your University / College (start_date to end_date)
 
