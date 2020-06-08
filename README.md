@@ -50,6 +50,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * Subject: Digital Arts
 * Grade 2.2
 * [End of year showreel](https://www.youtube.com/watch?v=JYVUDy5jC6U)
+* HTML/CSS, Processing (programming language)
+* Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
 
 #### Any other qualifications
 
