@@ -41,7 +41,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Makers Academy (17/02/20 - 05/06/20)
 * Object orientated programming, Test driven development
 * Agile/XP principles 
-* Ruby, Rails, JavaScript, React, Socket IO, Jquery, NodeJs
+* Ruby, JavaScript
+* Rails, React, Socket IO, Jquery, NodeJs, Express
 * PostgreSQL, SQL, Mongo DB
 * RSpec, Jasmine, Jest, Capybara
 
