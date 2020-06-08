@@ -48,7 +48,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University Of West London/ Kingston College, Richmond Road (2013-2016)
 
 * Subject: Digital Arts
-* Grade 2.2
+* BA, Grade 2.2
 * [End of year showreel](https://www.youtube.com/watch?v=oNoBRIztcew)
 * HTML/CSS, Processing (programming language)
 * Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
