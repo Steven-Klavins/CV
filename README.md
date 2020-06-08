@@ -21,9 +21,9 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 | [BMI calculator App](https://github.com/Steven-Klavins/bmi-calculator-app) | A basic Andriod app for calculating body mass index.                                                                                            | Java, Android Studio                                                         |
 | [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test)         | A simple bank account application used via the  command line.                                                                                   | Javascript, Jasmine                                                          |
 
-#### Skills
+### Skills
 
-## An agile worker and XP proponent
+#### An agile worker and XP proponent
 Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage and respect) provides a little more substance. 
 
 #### Another Skill
