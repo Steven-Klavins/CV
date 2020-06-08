@@ -45,17 +45,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 * PostgreSQL, SQL, Mongo DB
 * RSpec, Jasmine, Jest, Capybara 
 
-#### Your University / College (start_date to end_date)
+#### University Of West London/ Kingston College, Richmond Road (2013-2016)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+* Subject: Digital Arts
+* Grade 2.2
+* End of year [showreel](https://www.youtube.com/watch?v=JYVUDy5jC6U)
 
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
 
-## Experience
+## Employment History
 
 | Organization         | Job Title         | Dates of employment |
 |----------------------|-------------------|---------------------|
