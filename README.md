@@ -1,6 +1,6 @@
-## Your Name
+## Steven Klavins
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm a full-stack developer who possess drive and a positive attitude to learning new skills, I work effectively both in a team based environment and independently. I'm a punctual, determined and responsible individual who has a vigorous approach to new tasks. I have ample experience in fast paced working environments and thrive well under pressure. I'm IT literate, tech savvy and an innovative thinker, I hold a wide skill set in tech, customer service and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
 
 ## Skills
 
