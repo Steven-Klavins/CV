@@ -8,7 +8,7 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 |-----------------------------------------------------|:-------------:|-----------------------------------------------:|
 |[WhatStack](https://github.com/FayeCarter/WhatStack) |               |, React    JavaScript, React, MongoDB, Express, |
 |                                                     |               | NodeJS, Socket IO, Heroku                      |
-|-----------------------------------------------------|---------------| -----------------------------------------------|
+|                                                     |               |                                                |
 |                                                     |               |                                                |
 |                                                     |               |                                                |
 #### This Skill
