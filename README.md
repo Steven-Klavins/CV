@@ -4,11 +4,12 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 ## Skills
 
-| Project                                                          | Description                                                                                                                                     | Tech Used                                                                    |
-|------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| [WhatStack](https://github.com/FayeCarter/WhatStack)             | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | React, JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku, Jest |
-| [Off The Rails](https://github.com/Steven-Klavins/off-the-rails) | A simple web app for posting articles,  users can comment on, update, and delete posts.                                                         | Ruby, Rails, PostgreSQL, RSpec                                               |
-|
+| Project                                                                    | Description                                                                                                                                     | Tech Used                                                                    |
+|----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| [WhatStack](https://github.com/FayeCarter/WhatStack)                       | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | React, JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku, Jest |
+| [Off The Rails](https://github.com/Steven-Klavins/off-the-rails)           | A simple web app for posting articles,  users can comment on, update, and delete posts.                                                         | Ruby, Rails, PostgreSQL, RSpec                                               |
+| [BMI calculator App](https://github.com/Steven-Klavins/bmi-calculator-app) | A basic Andriod app for calculating body mass index.                                                                                            | Java, Android Studio                                                         |
+| [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test)         | A simple bank account application used via the  command line.                                                                                   | Javascript, Jasmine                                                          |
 
 #### This Skill
 
