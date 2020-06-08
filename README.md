@@ -1,4 +1,14 @@
 ## Steven Klavins
+<p align="center">
+<a href="https://twitter.com/KlavinsSteven">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@stevenklavins94">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+<a href="https://www.linkedin.com/in/steven-klavins-90b02a199/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+An alumnus of [Makers](https://makers.tech/)
 
 I'm a full-stack developer who possess drive and a positive attitude to learning new skills, I work effectively both in a team based environment and independently. I'm a punctual, determined and responsible individual who has a vigorous approach to new tasks. I have ample experience in fast paced working environments and thrive well under pressure. I'm IT literate, tech savvy and an innovative thinker, I hold a wide skill set in tech, customer service and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
 
