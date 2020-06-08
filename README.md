@@ -6,7 +6,7 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 
 | Project  |  Description  | Tech Used |
 |----------|:-------------:|----------:|
-|WhatStack |               |           |
+|[WhatStack](https://github.com/FayeCarter/WhatStack) |               |           |
 |          |               |           |
 |          |               |           |
 
