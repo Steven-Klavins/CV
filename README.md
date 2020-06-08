@@ -12,7 +12,7 @@ An alumnus of [Makers](https://github.com/makersacademy)
 
 I'm a full-stack developer who possess drive and a positive attitude to learning new skills, I work effectively both in a team based environment and independently. I'm a punctual, determined and responsible individual who has a vigorous approach to new tasks. I have ample experience in fast paced working environments and thrive well under pressure. I'm IT literate, tech savvy and an innovative thinker, I hold a wide skill set in tech, customer service and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
 
-## Skills
+## Projects 
 
 | Project                                                                    | Description                                                                                                                                     | Tech Used                                                                    |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -21,7 +21,7 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 | [BMI calculator App](https://github.com/Steven-Klavins/bmi-calculator-app) | A basic Andriod app for calculating body mass index.                                                                                            | Java, Android Studio                                                         |
 | [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test)         | A simple bank account application used via the  command line.                                                                                   | Javascript, Jasmine                                                          |
 
-#### This Skill
+#### Skills
 
 - Experience
 - Achievements
