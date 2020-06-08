@@ -1,4 +1,4 @@
-<p align="justify"> Steven Klavins </p>
+<h1 align="center">Steven Klavins</h1>
 <p align="center">
 <a href="https://twitter.com/KlavinsSteven">
 <img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
