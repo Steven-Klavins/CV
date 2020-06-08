@@ -28,12 +28,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (17/02/20 - 05/06/20)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Socket IO
+- PostgreSQL, SQL, Mongo DB
+- RSpec, Jasmine, Jest, Capybara 
 
 #### Your University / College (start_date to end_date)
 
