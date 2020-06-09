@@ -12,7 +12,7 @@ An alumnus of [Makers](https://github.com/makersacademy)
 
 Contact email: stevenklavins94@gmail.com
 
-I'm a full-stack developer who possess drive and a positive attitude to learning new skills, I work effectively both in a team based environment and independently. I'm a punctual, determined and responsible individual who has a vigorous approach to new tasks. I have ample experience in fast paced working environments and thrive well under pressure. I'm IT literate, tech savvy and an innovative thinker, I hold a wide skill set in tech, customer service and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
+I'm a full-stack developer who possesses the drive and positive attitude to learn new skills, I work effectively both in team-based environments and independently. I'm a punctual, determined, and responsible individual who has a vigorous approach to tasks. I have ample experience in fast-paced working environments and thrive well under pressure. I'm IT literate, tech-savvy and an innovative thinker, I hold a wide skill set in tech, customer service, and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
 
 ## Projects 
 
@@ -26,13 +26,13 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 ## Skills
 
 #### A methodical learner
-In an ever-expanding industry, I can appreciate the impotence of learning new skills as the landscape changes over time. Due to this, I have spent a fair amount of time thinking about how to optimize my learning process. Some key takeaways have been acquiring knowledge is best obtained through practice, not reading; and reaffirming what you learn is extremely important.  I achieve this by reflecting and blogging my progress as much as possible, follow this link [here](https://medium.com/@stevenklavins94) if you would like to see my learning journey.
+In an ever-changing industry, I can appreciate the importance of learning new skills on the fly and adapting as the landscape changes over time. Due to this, I have spent a fair amount of time thinking about how to optimize my learning process. Some key takeaways have been acquirement of knowledge is best obtained through practice, not reading; and reaffirming what you learn is extremely important. I achieve this by reflecting and blogging my progress as much as possible, follow this link [here](https://medium.com/@stevenklavins94) if you would like to see my learning journey.
 
 #### An agile worker and XP proponent
-Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. It is my belief these values play a huge part in the success of a team and because of this, I'm a strong advocate of adhering to them. From personal experience communicating well thought out ideas in a respectful and constructive manner is a sure path to success.
+Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. It is my belief these values play a huge part in the success of a team and because of this, I'm a strong advocate of adhering to these values. From personal experience communicating ideas in a respectful and constructive manner is a sure path to success.
 
 #### A meticulous promblem solver
-Arguably one of the most important things a developer can be is an effective problem solver, there are many methodologies out there, however one size does not fit all. Where possible I will often break down large tasks using the principles of test-driven development, you can see examples of this in my [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test) challenge. There are however many cases where TDD is just not possible, particularly when working with new tech, it can often be a little bit vague what it is your testing for and how you do it. In order to overcome this, there are few solutions, knowledge sharing with colleagues, building a smaller-scale version of the problem, and solve that. A great example of this in action is the [WhatStack](https://github.com/FayeCarter/WhatStack) web application I built cohort, leading with TDD simply did not work at beginning. 
+Arguably one of the most important things a developer can be is an effective problem solver, there are many methodologies out there, however one size does not fit all. Where possible I will often break down large tasks using the principles of test-driven development, you can see examples of this in my [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test) challenge. There are however many cases where TDD is just not possible, particularly when working with new tech, it can often be a little bit vague what it is your testing for and how you do it. In order to overcome this, there are a few solutions I resort to, knowledge sharing with colleagues, building a smaller-scale version of the project, or further breaking down the challenge into smaller tasks. [WhatStack](https://github.com/FayeCarter/WhatStack) was a prime example of this. I and my cohort had the intention of leading with TDD, however, it simply did not work at the beginning of the project.
 
 ## Education
 
@@ -59,9 +59,10 @@ Arguably one of the most important things a developer can be is an effective pro
 * HTML/CSS, Processing (programming language)
 * Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
 
-#### Any other qualifications
+#### A levels
 
-That in some arguable way make you a better software developer or well-rounded person
+* Subject: Media studies 
+* A level (double award), Distinction (A+)
 
 ## Employment History
 
