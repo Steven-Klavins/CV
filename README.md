@@ -59,7 +59,7 @@ Arguably one of the most important things a developer can be is an effective pro
 * HTML/CSS, Processing (programming language)
 * Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
 
-#### A levels
+#### A levels, Richard Challoner Sixth Form (2012)
 
 * Subject: Media studies 
 * A level (double award), Distinction (A+)
