@@ -26,7 +26,7 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 ## Skills
 
 #### An agile worker and XP proponent
-Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage and respect) provides a little more substance. 
+Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. It is my belief these values play a huge part in the success of a team and because of this, I'm a strong advocate of adhering to them. From personal experience communicating well thought out ideas in a respectful and constructive manner is a sure path to success.
 
 #### Another Skill
 
