@@ -63,6 +63,8 @@ Arguably one of the most important things a developer can be is an effective pro
 
 * Subject: Media studies 
 * A level (double award), Distinction (A+)
+* Photoshop, After Effects, Indesign, Premiere Pro 
+* Photography, Videography
 
 ## Employment History
 
