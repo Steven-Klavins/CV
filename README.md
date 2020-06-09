@@ -28,14 +28,8 @@ I'm a full-stack developer who possess drive and a positive attitude to learning
 #### An agile worker and XP proponent
 Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. It is my belief these values play a huge part in the success of a team and because of this, I'm a strong advocate of adhering to them. From personal experience communicating well thought out ideas in a respectful and constructive manner is a sure path to success.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-* I achieved A during my work at B (job, or otherwise)
-* I contributed to the growth of X while doing Y (job, or otherwise)
-* I built this, made this, broke this, fixed this, etc.
-* A link to some on-line evidence (blogs, videos, articles, etc.)
+#### A methodical learner
+In an ever-expanding industry, I can appreciate the impotence of learning new skills as the landscape changes over time. Due to this, I have spent a fair amount of time thinking about how to optimize my learning process.
 
 ## Education
 
