@@ -39,7 +39,7 @@ Arguably one of the most important things a developer can be is an effective pro
 ## Education
 
 #### Makers Academy (17/02/20 - 05/06/20)
-* Object orientated programming, Test driven development
+* Object orientated programming, Test-driven development
 * Agile/XP principles 
 * Ruby, JavaScript
 * Rails, React, Socket IO, Jquery, NodeJs, Express
@@ -79,4 +79,4 @@ Arguably one of the most important things a developer can be is an effective pro
 
 ## Hobbies
 
-In my leisure time, I am a devoted musician and have performed in a number of London venues. I enjoy working with all kinds of tech including but not limited to; 3D printing, modelling, microcontrollers, pro audio and a large list of languages and frameworks. I am a creative thinker and take a practical hands-on approach to my work, I'm also a keen artist and explore many mediums. I enjoy photography, most work situated within the Adobe suite and music production. Furthermore, I'm learning to speak German as I'm a keen traveller.
+In my leisure time, I am a devoted musician and have performed in a number of London venues. I enjoy working with all kinds of tech including but not limited to; 3D printing, modeling, microcontrollers, pro audio, and a large list of languages and frameworks. I am a creative thinker and take a practical hands-on approach to my work, I'm also a keen artist and explore many mediums. I enjoy photography, most work situated within the Adobe suite and music production. Furthermore, I'm learning to speak German as I'm a keen traveler.
