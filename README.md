@@ -79,7 +79,7 @@ Arguably one of the most important things a developer can be is an effective pro
 
 ## Hobbies
 
-In my leisure time: 
+#### In my leisure time: 
 
 * I am a devoted musician and love music production, I have performed in a number of London venues. 
 
