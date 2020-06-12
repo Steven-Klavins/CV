@@ -79,4 +79,14 @@ Arguably one of the most important things a developer can be is an effective pro
 
 ## Hobbies
 
-In my leisure time, I am a devoted musician and have performed in a number of London venues. I enjoy working with all kinds of tech including but not limited to; 3D printing, modeling, microcontrollers, pro audio, and a large list of languages and frameworks. I am a creative thinker and take a practical hands-on approach to my work, I'm also a keen artist and explore many mediums. I enjoy photography, most work situated within the Adobe suite and music production. Furthermore, I'm learning to speak German as I'm a keen traveler.
+In my leisure time: 
+
+* I am a devoted musician and love music production, I have performed in a number of London venues. 
+
+* I enjoy working with all kinds of tech including but not limited to; 3D printing, modeling, microcontrollers, pro audio, and a large list of languages and frameworks. 
+
+* I'm also a keen artist and explore many mediums, I am a creative thinker and like taking a practical hands-on approach to my work. 
+
+* I also enjoy photography and most work situated within the Adobe suite. 
+
+* Furthermore, I'm learning to speak German as I'm a keen traveler.
