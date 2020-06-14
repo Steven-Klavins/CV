@@ -72,10 +72,10 @@ Arguably one of the most important things a developer can be is an effective pro
 
 | Organization         | Job Title         | Dates of employment |
 |----------------------|-------------------|---------------------|
-| Willis Towers Watson | Call Centre Agent | 09/18 - 06/19       |
-| Sainsbury's          | Supervisor        | 10/17 - 06/18       |
-| Sainsbury's          | Floor Staff       | 09/15 - 10/17       |
-| Maplin Electronics   | Sales advisor     | 12/14 – 09/15       | 
+| Willis Towers Watson | Call Centre Agent | 09/2018 - 06/2019   |
+| Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
+| Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
+| Maplin Electronics   | Sales advisor     | 12/2014 – 09/2015   | 
 
 ## Hobbies
 
