@@ -12,7 +12,11 @@ An alumnus of [Makers](https://github.com/makersacademy)
 
 Contact email: stevenklavins94@gmail.com
 
-I'm a full-stack developer who possesses the drive and positive attitude to learn new skills, I work effectively both in team-based environments and independently. I'm a punctual, determined, and responsible individual who has a vigorous approach to tasks. I have ample experience in fast-paced working environments and thrive well under pressure. I'm IT literate, tech-savvy and an innovative thinker, I hold a wide skill set in tech, customer service, and multimedia production. I'm a sociable and friendly individual who works well with colleagues and clients alike.
+I'm a full-stack developer, musician, and artist in pursuit of a career where I can share my love of tech and nurture my creativity. Just a few short months ago I took a huge risk and left the stability of my job to pursue my passion.
+
+Following my resignation, I taught myself OPP principles, attended Makers academy, and immersed myself in new tech. It was an amazing experience working alongside other developers, I grew exponentially.
+
+
 
 ## Projects 
 
