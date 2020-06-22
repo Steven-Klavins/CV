@@ -31,7 +31,7 @@ Following my resignation, I taught myself OPP principles, attended Makers academ
 ## Skills
 
 #### A methodical learner
-In an ever-changing industry, I can appreciate the importance of learning new skills on the fly and adapting as the landscape changes over time. Due to this, I have spent a fair amount of time thinking about how to optimize my learning process. Some key takeaways have been acquirement of knowledge is best obtained through practice, not reading; and reaffirming what you learn is extremely important. I achieve this by reflecting and blogging my progress as much as possible, follow this link [here](https://medium.com/@stevenklavins94) if you would like to see my learning journey.
+Every project I worked on provided something new to learn, developing an effective learning process became something rather important to me. I found Team knowledge sharing, breaking down larger problems into smaller achievable goals, and self-led learning worked best for me. When overcoming a new challenge I found it helpful to reinforce knowledge through blogging, you can find an example of this [here.](https://medium.com/@stevenklavins94)
 
 #### An agile worker and XP proponent
 Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. It is my belief these values play a huge part in the success of a team and because of this, I'm a strong advocate of adhering to these values. From personal experience communicating ideas in a respectful and constructive manner is a sure path to success.
