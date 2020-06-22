@@ -18,15 +18,13 @@ Following my resignation, I taught myself OPP principles, attended Makers academ
 
 
 
-## Projects 
+## Notable Projects 
 
 | Project                                                                    | Description                                                                                                                                     | Tech Used                                                                    |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | [WhatStack](https://github.com/FayeCarter/WhatStack)                       | A collaborative developers platform for asking  questions and sharing solutions, a hybrid of  Stack Overflow, and WhatsApp with real-time chat. | JavaScript, React, MongoDB,  Express, NodeJS, Socket IO, Heroku, Jest, HTML, CSS   |
 | [Portfolio Website](https://github.com/Steven-Klavins/steven-klavins-website)         | My coding portfolio website.                                                                                  | Javascript, React, NodeJS, Particles-JS, HTML, CSS, Axios, Github API V3                                                          |
 | [Off The Rails](https://github.com/Steven-Klavins/off-the-rails)           | A web app for posting articles,  users can comment on, update, and delete posts.                                                         | Ruby, Rails, HTML, CSS,   PostgreSQL, RSpec                                               |
-| [BMI calculator App](https://github.com/Steven-Klavins/bmi-calculator-app) | An Android app for calculating body mass index.                                                                                            | Java, Android Studio                                                         |
-| [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test)         | A bank account application used via the  command line.                                                                                   | Javascript, Jasmine, NodeJS                                                          |
 
 ## Skills
 
