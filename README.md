@@ -77,6 +77,7 @@ Arguably one of the most important things a developer can be is an effective pro
 | Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
 | Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
 | Maplin Electronics   | Sales advisor     | 12/2014 – 09/2015   | 
+| Musician             | Composer/Guitarist| 01/2009 – present   | 
 
 ## Hobbies
 
