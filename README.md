@@ -39,7 +39,7 @@ Arguably one of the most important things a developer can be is an effective pro
 
 ## Education
 
-#### Makers Academy (17/02/20 - 05/06/20)
+#### Makers Academy (02/2020 - 06/2020)
 * Object orientated programming, Test-driven development
 * Agile/XP principles 
 * Ruby, JavaScript
@@ -47,7 +47,7 @@ Arguably one of the most important things a developer can be is an effective pro
 * PostgreSQL, SQL, Mongo DB
 * RSpec, Jasmine, Jest, Capybara
 
-#### Self Directed Learning (28/06/19 - 16/02/20)
+#### Self Directed Learning (06/2019 - 02/2020)
 * Java, Python 
 * OOP principles 
 * Android Development 
