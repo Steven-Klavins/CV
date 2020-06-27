@@ -14,7 +14,7 @@ Contact email: stevenklavins94@gmail.com
 
 I'm a full-stack developer, musician, and artist in pursuit of a career where I can share my love of tech and nurture my creativity. Just a few short months ago I took a huge risk and left the stability of my job to pursue my passion.
 
-Following my resignation, I taught myself OOP principles, attended Makers academy, and immersed myself in new tech. It was an amazing experience working alongside other developers and I grew exponentially. I have newfound confidence I can pick up anything with the right approach, whether that be a new framework or an entirely new language altogether
+Following my resignation, I taught myself OOP principles, attended Makers academy, and immersed myself in new tech. It was an amazing experience working alongside other developers and I grew exponentially. I have newfound confidence I can pick up anything with the right approach, whether that be a new framework or an entirely new language altogether.
 
 
 ## Notable Projects 
