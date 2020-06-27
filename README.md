@@ -83,7 +83,7 @@ Arguably one of the most important things a developer can be is an effective pro
 
 #### In my leisure time: 
 
-* I am a devoted musician and love music production, I have performed in a number of London venues. 
+* I am a devoted musician and love music production, I have performed in a number of London venues. You can see a live performance [here](https://www.youtube.com/watch?v=KDvHNCO7nFs), some of my favourite acts just to name a few are Periphery, Animals As Leaders, Veil of Maya, Billy Talent, Snarky Puppy and Skyharbor.
 
 * I enjoy working with all kinds of tech including but not limited to; 3D printing, modeling, microcontrollers, pro audio, and a large list of languages and frameworks. 
 
