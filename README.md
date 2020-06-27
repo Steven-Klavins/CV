@@ -43,7 +43,7 @@ Arguably one of the most important things a developer can be is an effective pro
 * Object orientated programming, Test-driven development
 * Agile/XP principles 
 * Ruby, JavaScript
-* Rails, React, Socket IO, Jquery, NodeJs, Express
+* Rails, React, Socket IO, jQuery, NodeJs, Express
 * PostgreSQL, SQL, Mongo DB
 * RSpec, Jasmine, Jest, Capybara
 
