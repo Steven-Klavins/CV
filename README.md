@@ -28,7 +28,7 @@ Following my resignation, I taught myself OOP principles, attended Makers academ
 
 ## Skills
 
-#### A methodical and collaborative learner 
+#### A methodical learner 
 Every project I worked on provided something new to tackle and developing an effective learning strategy was key. I and my teams approached learning with the mentality of "no one gets left behind". Jumping into new tech can be rather intimidating, the worry of being left behind is a rather daunting prospect. Supporting each other throughout the process raised our knowledge and morale collectively. When overcoming challenges independently I found reinforcing and sharing knowledge through blogging particularly helpful, you can find these blogs [here.](https://medium.com/@stevenklavins94)
 
 #### An agile worker and XP proponent
