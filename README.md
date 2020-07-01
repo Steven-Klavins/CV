@@ -29,7 +29,7 @@ Following my resignation, I taught myself OOP principles, attended Makers academ
 ## Skills
 
 #### A methodical learner 
-I and my teams approached learning with the mentality of "no one gets left behind". Jumping into new tech can be rather intimidating and the worry of falling behind your team is a rather daunting prospect. In the project [WhatStack](https://github.com/FayeCarter/WhatStack) supporting each others learning journey raised knowledge and morale collectively. We all had knowledge gaps particularly in the case of using WebSockets and through our collective knowledge sharing, we achieved what we set out to do. 
+I and my teams approached learning with the mentality of "no one gets left behind". Jumping into new tech can be rather intimidating and the worry of falling behind your team is a rather daunting prospect. In the project [WhatStack](https://github.com/FayeCarter/WhatStack) supporting each others learning journey raised knowledge and morale collectively. We all had knowledge gaps particularly in the task of using WebSockets and through our collective knowledge sharing, we achieved what we set out to do. 
 
 When overcoming challenges independently I found reinforcing and sharing knowledge through my [blog](https://medium.com/@stevenklavins94) particularly helpful. From a young age, I learned through reverse engineering, I would pull everything apart to see how it worked. Truth be told I didn't always know how to put it back together, however, thankfully it paid off and now I usually fix more than I break.
 
