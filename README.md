@@ -41,7 +41,7 @@ Arguably one of the most important things a developer can be is an effective pro
 
 #### What makes me a little different
 
-I suppose some could call me quirky or a little bit of an oddball but this all comes from my love of creativity and expression. I like to think of myself as a rather warm individual and I conduct myself in a professional manner. I enjoy working with those who like to foster a friendly, open working environment. What drove me to the industry is my desire to utilize tech for positive change through exciting forms of innovation.
+I suppose some could call me quirky or a little bit of an oddball but this all comes from my love of creativity and expression. I like to think of myself as a rather warm individual and I conduct myself in a professional manner. I enjoy working with those who like to foster a friendly, open working environment. You may ask "What drove you to the industry?" What motivates me is my desire to utilize tech to create positive change in the world, I want to achieve this through exciting new forms of innovation. Ever since I started coding I've been hooked, It's not just a job to me, its an outlet for my creativity and passion.
 
 ## Education
 
