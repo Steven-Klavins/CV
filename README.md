@@ -39,6 +39,10 @@ Stating "I am an agile worker" is a fairly ambiguous statement, however stating 
 #### A meticulous promblem solver
 Arguably one of the most important things a developer can be is an effective problem solver, not only in the context of tech but everyday soft skills too. Throughout my career, I have demonstrated an exceptional ability to problem solve under pressure. Just some examples of this include dealing with hostile customers in a calm and constructive manner (showing a little empathy can go a long way), finding team consensus on how specific tech problems should be tackled, and sharing solutions to common problems others may also have. Just a few days prior to writing this CV I helped two of my colleagues retrieve hundreds of code contributions by sharing a solution I found when experiencing the same problem.
 
+#### What makes me a little different
+
+I suppose some could call be quirky or a little bit of an oddball but this all comes from my love of creativity and expression. I like to think of myself as a rather warm individual and I conduct myself in a professional manner. I enjoy working with those who like to foster a friendly, open working environment. What drove me to the industry is my desire to utilize tech for positive change through exciting forms of innovation.
+
 ## Education
 
 #### Makers Academy (02/2020 - 06/2020)
