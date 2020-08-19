@@ -36,7 +36,7 @@ When overcoming challenges independently I found reinforcing and sharing knowled
 #### An agile worker and XP proponent
 Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. These values contributed to a large portion of the success my teams at Makers had. Ensuring everyone felt valued within our team produced positive morale and the motivation to overcome challenges. A number of my colleagues have stated I have a calm yet focused approach when working in a team, I believe this to be a quality obtained from my years of retail and management.
 
-#### A meticulous promblem solver
+#### A meticulous problem solver
 Arguably one of the most important things a developer can be is an effective problem solver, not only in the context of tech but everyday soft skills too. Throughout my career, I have demonstrated an exceptional ability to problem solve under pressure. Just some examples of this include dealing with hostile customers in a calm and constructive manner (showing a little empathy can go a long way), finding team consensus on how specific tech problems should be tackled, and sharing solutions to common problems others may also have. Just a few days prior to writing this CV I helped two of my colleagues retrieve hundreds of code contributions by sharing a solution I found when experiencing the same problem.
 
 #### What makes me a little different
