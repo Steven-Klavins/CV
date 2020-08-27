@@ -68,13 +68,6 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 * HTML/CSS, Processing (programming language)
 * Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
 
-#### A levels, Richard Challoner Sixth Form (2012)
-
-* Subject: Media studies 
-* A level (double award), Distinction (A+)
-* Photoshop, After Effects, Indesign, Premiere Pro 
-* Photography, Videography
-
 ## Employment History
 
 | Organization         | Job Title         | Dates of employment |
