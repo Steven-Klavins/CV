@@ -54,8 +54,8 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 * PostgreSQL, SQL, Mongo DB
 * RSpec, Jasmine, Jest, Capybara
 
-#### Self Directed Learning (06/2019 - 02/2020)
-* Java, Python, PHP, WordPress  
+#### Self Directed Learning (06/2019 - 02/2020 / 06/2020 - present)
+* Java, Python, PHP, WordPress, React Native  
 * OOP principles 
 * Android Development 
 * Basic Algorithms 
