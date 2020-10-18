@@ -23,7 +23,7 @@ Following my resignation, I taught myself OOP principles, attended Makers academ
 |-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|---------------------------------------------|
 | [WhatStack](https://github.com/FayeCarter/WhatStack)                          | A collaborative developers platform for asking questions  and sharing solutions, a hybrid of Stack Overflow,  and WhatsApp with real-time chat. | JavaScript, React, MongoDB, Express,  NodeJS, Socket IO, Heroku, Jest,  HTML, CSS        | [Link](https://whatstack.herokuapp.com/)    |
 | [Off The Rails](https://github.com/Steven-Klavins/off-the-rails)              | A web app for posting articles,  users can comment  on, update, and delete posts.                                                               | Ruby, Rails, HTML, CSS, PostgreSQL,  RSpec                                               |                                         |
-| [Portfolio Website](https://github.com/Steven-Klavins/stevenklavins.co.uk) | My personal portfolio website.                                                                                                                    | Javascript, React, NodeJS, HTML, CSS, Axios, Github API V3, Flickr API, Framer Motion, Jest, Enzyme | [Link](https://stevenklavins.netlify.app/) |
+| [Portfolio Website](https://github.com/Steven-Klavins/stevenklavins.co.uk) | My personal portfolio website.                                                                                                                    | Javascript, React, NodeJS, HTML, CSS, Axios, Github API V3, Flickr API, Framer Motion, Jest, Enzyme | [Link](http://stevenklavins.co.uk/) |
 | [Bank Tech Test](https://github.com/Steven-Klavins/bank-tech-test)            | A bank account application used via the  command line.                                                                                          | Javascript, Jasmine                                                                      |                                         |
 
 ## Skills
@@ -54,7 +54,7 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 * RSpec, Jasmine, Jest, Capybara
 
 #### Self Directed Learning (06/2019 - 02/2020)
-* Java, Python 
+* Java, Python, PHP, WordPress  
 * OOP principles 
 * Android Development 
 * Basic Algorithms 
