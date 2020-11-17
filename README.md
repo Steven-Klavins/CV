@@ -73,7 +73,6 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 
 | Organization         | Job Title         | Dates of employment |
 |----------------------|-------------------|---------------------|
-| TWO Digital Marketing| Developer         | 11/2020 – present   | 
 | Willis Towers Watson | Call Centre Agent | 09/2018 - 06/2019   |
 | Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
 | Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
