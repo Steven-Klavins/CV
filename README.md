@@ -51,7 +51,7 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 | Willis Towers Watson | Call Centre Agent | 09/2018 - 06/2019   |
 | Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
 | Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
-| Maplin Electronics   | Sales advisor     | 12/2014 – 09/2015   | 
+| Maplin Electronics   | Sales Advisor     | 12/2014 – 09/2015   | 
 | Musician             | Composer/Guitarist| 01/2009 – present   |
 
 ## Education
