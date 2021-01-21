@@ -12,7 +12,7 @@ An alumnus of [Makers](https://github.com/makersacademy)
 
 Contact email: stevenklavins94@gmail.com
 
-I'm a full-stack developer, musician, and artist in pursuit of a career where I can share my love of tech and nurture my creativity. Last year I took a huge risk and left the stability of my job to pursue my passion.
+I'm a highly ambitious developer in pursuit of a career where I can grow, share my love of tech, and nurture my creativity. Last year I took a huge risk and left the stability of my job to pursue my passion.
 
 Following my resignation, I taught myself OOP principles, attended Makers academy, and immersed myself in new tech. It was an amazing experience working alongside other developers and I grew exponentially. I have newfound confidence I can pick up anything with the right approach, whether that be a new framework or an entirely new language altogether.
 
@@ -30,9 +30,9 @@ Following my resignation, I taught myself OOP principles, attended Makers academ
 ## Skills
 
 #### A methodical learner 
-I and my teams approached learning with the mentality of "no one gets left behind". Jumping into new tech can be rather intimidating and the worry of falling behind your team is a rather daunting prospect. In the project [WhatStack](https://github.com/FayeCarter/WhatStack) supporting each others learning journey raised knowledge and morale collectively. It was here I found my experience as a supervisor particularly useful, it was in that time I had developed a higher level of emotional intelligence and the ability to motivate my colleagues. We all had knowledge gaps particularly in the task of using WebSockets, through our collective knowledge sharing we made incredible strides in the right direction.
+My team and I approached learning with the mentality of "no one gets left behind". Jumping into new tech can be rather intimidating and the worry of falling behind your team is a rather daunting prospect. In the project [WhatStack](https://github.com/FayeCarter/WhatStack) supporting each other’s learning journey raised knowledge and morale collectively. It was here I found my experience as a supervisor particularly useful, it was in that time I had developed a higher level of emotional intelligence and the ability to motivate my colleagues. We all had knowledge gaps particularly in the task of using WebSockets, through our collective knowledge sharing we made incredible strides in the right direction.
 
-When overcoming challenges independently I found reinforcing and sharing knowledge through my [blog](https://medium.com/@stevenklavins94) particularly helpful. From a young age, I would often learn through reverse engineering, I would pull everything apart to see how it worked. Truth be told I didn't always know how to put it all back together, never the less after years of refining this process I now fix more than I break.
+When overcoming challenges independently I found reinforcing and sharing knowledge through my [blog](https://medium.com/@stevenklavins94) particularly helpful. From a young age, I would often learn through reverse engineering, I would pull everything apart to see how it worked. Truth be told I didn't always know how to put it all back together, nevertheless after years of refining this process I now fix more than I break.
 
 #### An agile worker and XP proponent
 Stating "I am an agile worker" is a fairly ambiguous statement, however stating I adhere to the XP values (feedback, simplicity, communication, courage, and respect) provides a little more substance. These values contributed to a large portion of the success my teams at Makers had. Ensuring everyone felt valued within our team produced positive morale and the motivation to overcome challenges. A number of my colleagues have stated I have a calm yet focused approach when working in a team, I believe this to be a quality obtained from my years of customer facing roles.
@@ -43,6 +43,16 @@ Arguably one of the most important things a developer can be is an effective pro
 #### What makes me a little different
 
 I suppose some could call me quirky or a little bit of an oddball but this all comes from my love of creativity and expression. I like to think of myself as a rather warm individual and I conduct myself in a professional manner. I enjoy working with those who like to foster a friendly, open working environment. You may ask "What drove you to the industry?" What motivates me is my desire to utilize tech to create positive change in the world, I want to achieve this through exciting new forms of innovation. Ever since I started coding I've been hooked, It's not just a job to me, its an outlet for my creativity and passion.
+
+## Employment History
+
+| Organization         | Job Title         | Dates of employment |
+|----------------------|-------------------|---------------------|
+| Willis Towers Watson | Call Centre Agent | 09/2018 - 06/2019   |
+| Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
+| Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
+| Maplin Electronics   | Sales advisor     | 12/2014 – 09/2015   | 
+| Musician             | Composer/Guitarist| 01/2009 – present   |
 
 ## Education
 
@@ -64,20 +74,8 @@ I suppose some could call me quirky or a little bit of an oddball but this all c
 #### University Of West London/ Kingston College, Richmond Road (2013-2016)
 
 * Subject: Digital Arts
-* BA, Grade 2.2
-* [End of year showreel](https://www.youtube.com/watch?v=oNoBRIztcew)
 * HTML/CSS, Processing (programming language)
-* Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine
-
-## Employment History
-
-| Organization         | Job Title         | Dates of employment |
-|----------------------|-------------------|---------------------|
-| Willis Towers Watson | Call Centre Agent | 09/2018 - 06/2019   |
-| Sainsbury's          | Supervisor        | 10/2017 - 06/2018   |
-| Sainsbury's          | Floor Staff       | 09/2015 - 10/2017   |
-| Maplin Electronics   | Sales advisor     | 12/2014 – 09/2015   | 
-| Musician             | Composer/Guitarist| 01/2009 – present   | 
+* Photoshop, After Effects, Maya, Cinema 4D, Unreal Engine 
 
 ## Hobbies
 
